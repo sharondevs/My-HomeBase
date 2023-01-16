@@ -1,2 +1,2 @@
 # My-HomeBase
-My portfolio website containing my work and profile. 
+Portfolio website containing web dev experiments.
